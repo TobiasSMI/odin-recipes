@@ -1,8 +1,17 @@
-div {
-    color: white;
-    background-color: black;
-  }
-  
-  a {
-    color: red;
-  }
+* {
+  /* Make all Text tomato red: Tomato / #ff6347 Hex Color Code https://encycolorpedia.com/ff6347 */
+  color: #ff6347;
+  background-color: black;
+}
+
+li, a {
+  /* Make all list dots and links oregano green everywhere
+  https://encycolorpedia.com/8d8765 */
+  color: #8d8765;
+}
+
+#ingredient_list {
+  /* Make ingredient heading cheese yellow
+  https://encycolorpedia.com/ffa600 */
+  color: #ffa600;
+}
